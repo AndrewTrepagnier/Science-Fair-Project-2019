@@ -6,7 +6,7 @@ to create a point cloud rendition of the surrounding environment. I had been com
 
 I competed on the highschool, regional and state-level in Louisiana and subsequently won 3rd place out of 12 projects in Robotics and Embedded Systems division.
 
-The board I presented and some key figures:
+## The board I presented and some key figures
 
 ![FE580820-E4C7-4B48-ADE6-B659A3408E92](https://github.com/user-attachments/assets/77b922b3-71f4-404d-a9df-dcfedac48a51)
 
